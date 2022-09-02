@@ -1,0 +1,11 @@
+﻿Console.WriteLine("santos");
+Console.ReadKey ();
+Console.WriteLine("sao vicente");
+Console.ReadKey ();
+Console.WriteLine("praia grande");
+Console.ReadKey ();
+Console.WriteLine("mongagua");
+Console.ReadKey ();
+Console.WriteLine("itanhaem");
+Console.ReadKey ();
+Console.WriteLine("peruibe");
